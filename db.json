@@ -1,0 +1,26 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    }
+  ]
+}
